@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+.all-login{
+    height: 350px;
+    width: 350px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 10%;
+}
+.head-login{
+    height: 60px;
+    width: 350px;
+    background-color: #16B8EC;
+    border-radius: 10px;
+}
+.head-login h1{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-family:'Open Sans';
+}
+h1{
+    margin: 0;
+}
+.input-login{
+    margin-top: 15%;
+    margin-left: 20px;
+
+}
+#Username{
+    height: 30px;
+    width: 300px;
+}
+#Password{
+    height: 30px;
+    width: 300px;
+}
+.foot-login{
+    margin-top: 30px;
+    margin-left: 35%;   
+}
+.button-login{
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #16B8EC;
+    color: white;
+}
